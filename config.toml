@@ -1,4 +1,4 @@
-baseURL = "https://modest-kowalevski-fb1ba5.netlify.com/"
+baseURL = "https://abraham.life/"
 title = "Abraham's Life"
 enableRobotsTXT = true
 enableEmoji = true
@@ -25,6 +25,9 @@ defaultContentLanguage = "en"           # Default language to use
 
 [author]                  # essential                     # 必需
   name = "Rajiv Abraham"
+
+[permalinks]
+post = "/:yearday/:title/"
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
