@@ -1,11 +1,11 @@
 ---
 title: "Praise: A Good Place To Be"
-date: 2018-05-18T14:02:55+05:30
-lastmod: 2018-05-18T14:02:55+05:30
+date: 2018-05-24T14:02:55+05:30
+lastmod: 2018-05-24T14:02:55+05:30
 draft: true
 keywords: [praise, praising God]
 description: ""
-tags: [Praise, Praising, Worship]
+tags: [Praise, Praising God, Worship]
 categories: [Praise]
 author: "Rajiv Abraham"
 
@@ -20,5 +20,7 @@ reward: false
 mathjax: false
 ---
 
+
+
+
 <!--more-->
-lkglghlkhghjj

@@ -5,8 +5,8 @@ lastmod: {{ .Date }}
 draft: true
 keywords: []
 description: ""
-tags: []
-categories: []
+categories: ["XXX", "XXX"]
+tags: ["XXX", "XXX"]
 author: "Rajiv Abraham"
 
 # You can also close(false) or open(true) something for this content.
@@ -19,5 +19,7 @@ contentCopyright: false
 reward: false
 mathjax: false
 ---
+
+
 
 <!--more-->

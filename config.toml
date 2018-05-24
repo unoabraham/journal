@@ -27,7 +27,7 @@ defaultContentLanguage = "en"           # Default language to use
   name = "Rajiv Abraham"
 
 [permalinks]
-  post = "/:yearday/:title/"
+  post = "/:title/"
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
@@ -46,12 +46,12 @@ defaultContentLanguage = "en"           # Default language to use
   #url = "/about/"
 [[menu.main]]
   name = "Tags"
-  weight = 60
+  weight = 70
   identifier = "tags"
   url = "/tags/"
 [[menu.main]]
   name = "Categories"
-  weight = 70
+  weight = 60
   identifier = "categories"
   url = "/categories/"
 [[menu.main]]
@@ -135,15 +135,15 @@ defaultContentLanguage = "en"           # Default language to use
     #b-stack-overflow = "http://localhost:1313"
     c-twitter = "https://twitter.com/unoabraham"
     d-facebook = "https://www.facebook.com/939abraham"
-    e-linkedin = "https://www.linkedin.com/in/unoabraham/"
+    #e-linkedin = "https://www.linkedin.com/in/unoabraham/"
     #f-google = "http://localhost:1313"
     g-github = "https://github.com/unoabraham"
     #h-weibo = "http://localhost:1313"
     #i-zhihu = "http://localhost:1313"
     #j-douban = "http://localhost:1313"
-    k-pocket = "https://getpocket.com/@unoabraham"
+    #k-pocket = "https://getpocket.com/@unoabraham"
     l-tumblr = "https://unoabraham.tumblr.com/"
-    m-instagram = "https://www.instagram.com/unoabraham/"
+    #m-instagram = "https://www.instagram.com/unoabraham/"
     #n-gitlab = "http://en.xianmin.org/hugo-theme-jane/"
     #o-goodreads = "http://en.xianmin.org/hugo-theme-jane/"
 
