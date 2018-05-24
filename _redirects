@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://modest-kowalevski-fb1ba5.netlify.com/* http://abraham.life/:splat 301!
