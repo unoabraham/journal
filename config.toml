@@ -28,7 +28,7 @@ googleAnalytics       = "UA-112438396-15"
     faviconFile         = "images/Abraham150.jpg"
     pygmentsStyle       = "monokai"                         # https://help.farbox.com/pygments.html
     pygmentsCodefences  = true
-    footerText          = "Powered by Hugo"                                # Text to show in footer (overrides default text)
+    footerText          = "Powered by Love"                                # Text to show in footer (overrides default text)
     fadeIn              = true                              # Turn on/off the fade-in effect
     customCSS           = []                                # Include custom css files e.g. ["css/foo.css", "css/bar.css"]
 
