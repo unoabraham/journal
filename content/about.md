@@ -1,21 +1,12 @@
 ---
 title: "About"
-date: 2018-05-23T21:38:52+08:00
-lastmod: 2018-05-23T21:41:52+08:00
-menu: "main"
-weight: 50
-
-# you can close something for this content if you open it in config.toml.
-comment: false
-mathjax: false
+date: 2018-05-27T13:19:25+08:00
 ---
 
-Hey, my name is Rajiv Abraham and I’m a follower of the Lord Jesus Christ.
+Hey, my name is Rajiv Abraham Nela, and I’m a follower of the Lord Jesus Christ.
 
-Like everybody I too struggled with many things in my life.
+For years I struggled with being human and the fallen human nature.
 
-Then I discovered the abundant life (John 10:10) that comes from knowing the Lord Jesus Christ.
+Then I discovered God’s power and how to operate in it.
 
-This is my journal of what I have learnt, and how it has blessed me.
-
-Rajiv Abraham
+This is my journal of my walk with the Lord Jesus Christ.
