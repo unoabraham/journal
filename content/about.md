@@ -18,7 +18,4 @@ Then I discovered the abundant life (John 10:10) that comes from knowing the Lor
 
 This is my journal of what I have learnt, and how it has blessed me.
 
-
-God bless,
-
 Rajiv Abraham
