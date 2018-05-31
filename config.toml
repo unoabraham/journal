@@ -12,7 +12,7 @@ googleAnalytics       = "UA-112438396-15"
   blog = "/:yearday/:title/"
 
 [params]    
-    blogHead            = "Abraham's Blog"                            # Full name shows on blog post pages
+    blogHead            = "Abraham's Journal"                            # Full name shows on blog post pages
     firstName           = "Rajiv Abraham Nela"                    # First name shows in introduction on main page
     tagLine             = "I'm a follower of the Lord Jesus Christ. This is my Journal."           # Appears after the introduction
     introHeight         = "large"                           # Input either 'medium' or 'large' or 'fullheight'
